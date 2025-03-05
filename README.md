@@ -55,7 +55,3 @@ Me chamo Maria Eduarda Gomes, tenho 19 anos e sou natural de São Paulo e conclu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
