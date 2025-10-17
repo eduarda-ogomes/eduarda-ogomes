@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maria Eduarda Gomes
 
-Me chamo Maria Eduarda Gomes, tenho 19 anos e sou natural de São Paulo e concluí o ensino médio na Escola Técnica Estadual (ETEC). Atualmente, estou cursando Engenharia de Software na UNB. 
+Me chamo Maria Eduarda Gomes, tenho 20 anos e sou natural de São Paulo e concluí o ensino médio na Escola Técnica Estadual (ETEC). Atualmente, estou no 3° periodo de Engenharia de Software na UNB. 
 
 ---
 
