@@ -2,10 +2,8 @@
 
 **Estudante de Engenharia de Software | 4º período UnB**  
 **Desenvolvedora Full-Stack** | Python | C++ | JavaScript | SQL/NoSQL  
-🎯 *Buscando estágio em desenvolvimento de software, aberta a qualquer stack e tecnologia!*
-
-📍 **Gama - DF**  
-💼 **Remoto | Híbrido | Presencial (Brasília/DF)**
+🎯 *Buscando estágio em desenvolvimento de software, aberta a qualquer stack e tecnologia!*  
+💼 *Remoto | Híbrido | Presencial (Brasília/DF)*
 
 ---
 
