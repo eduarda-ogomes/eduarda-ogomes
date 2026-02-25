@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Maria Eduarda Gomes
 
 **Estudante de Engenharia de Software | 4º período UnB**  
-**Desenvolvedora Full-Stack** | Python | C++ | JavaScript | SQL/NoSQL  
-🎯 *Buscando estágio em desenvolvimento de software, aberta a qualquer stack e tecnologia!*  
+Python | C++ | JavaScript | SQL | Git | Linux  
+
+🎯 *Buscando estágio em desenvolvimento de software*  
 💼 *Remoto | Híbrido | Presencial (Brasília/DF)*
 
 ---
@@ -10,13 +11,11 @@
 ### 🚀 Sobre mim
 
 - 🎓 **Engenharia de Software** - Universidade de Brasília (UnB)
-- 💻 **Versátil**: Frontend, Backend, Banco de Dados e Algoritmos
-- 🛠️ **Projetos reais** em múltiplas tecnologias
-- 🔧 **Linux + Git** com boas práticas profissionais
+- 💻 Experiência com projetos em **backend, dados e algoritmos**
+- 🛠️ Desenvolvimento de projetos usando Python e banco de dados
+- 🔧 Uso frequente de **Linux e Git**
 
 ---
-
-
 
 ### 🛠️ Minhas Tecnologias
 
@@ -52,11 +51,11 @@
 
 | Projeto | Tecnologias | Descrição | Link |
 |---------|-------------|-----------|------|
-| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | **Web Scraping + Data Processing**<br>Extração inteligente de dados judiciais + tabela HTML | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
-| **🏠 Projeto House** | **Full-Stack**<br>Frontend + Backend | **Gerenciador de tarefas para repúblicas**<br>Autenticação, chat real-time, gerenciamento | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
-| **🌐 Portfolio Pessoal** | HTML5, CSS3, JS | **Site profissional responsivo**<br>Em fase de desenvolvimento | [![Live Demo](https://img.shields.io/badge/Live-Portfolio-brightgreen?style=for-the-badge&logo=firefox-browser&logoColor=white)](COLOQUE_SEU_LINK_AQUI) |
+| **📊 Desafio Fato** | **Python**<br>Pandas | **Processamento e análise de dados**<br>Manipulação e organização de dados estruturados | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_Fato-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/desafio_fato) |
+| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | **Web Scraping + Data Processing**<br>Extração automática de dados judiciais | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
+| **🏠 Projeto House** | **Full-Stack**<br>Frontend + Backend | **Gerenciador de tarefas para repúblicas**<br>Autenticação e gerenciamento de tarefas | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
 
-**👆 Estes projetos mostram minhas skills em ação!**
+**👆 Estes projetos mostram minhas habilidades em programação e desenvolvimento.**
 
 </div>
 
@@ -86,4 +85,5 @@
 </picture>
 
 ---
-**Última atualização:** Janeiro 2026 ✨
+
+**Última atualização:** Fevereiro 2026 ✨
