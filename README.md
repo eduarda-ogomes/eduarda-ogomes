@@ -1,9 +1,8 @@
 # 👩🏻‍💻 Maria Eduarda Gomes
 
 **Estudante de Engenharia de Software | 4º período UnB**  
-Python | C++ | JavaScript | SQL | Git | Linux  
-
-🎯 *Buscando estágio em desenvolvimento de software*  
+Python | C++ | JavaScript | SQL/NoSQL  
+🎯 *Buscando estágio em desenvolvimento de software, aberta a qualquer stack e tecnologia!*  
 💼 *Remoto | Híbrido | Presencial (Brasília/DF)*
 
 ---
@@ -11,9 +10,9 @@ Python | C++ | JavaScript | SQL | Git | Linux
 ### 🚀 Sobre mim
 
 - 🎓 **Engenharia de Software** - Universidade de Brasília (UnB)
-- 💻 Experiência com projetos em **backend, dados e algoritmos**
-- 🛠️ Desenvolvimento de projetos usando Python e banco de dados
-- 🔧 Uso frequente de **Linux e Git**
+- 💻 Projetos em **backend, dados e algoritmos**
+- 🛠️ Experiência com processamento e análise de dados em Python
+- 🔧 **Linux + Git** no desenvolvimento de projetos
 
 ---
 
@@ -51,11 +50,12 @@ Python | C++ | JavaScript | SQL | Git | Linux
 
 | Projeto | Tecnologias | Descrição | Link |
 |---------|-------------|-----------|------|
-| **📊 Desafio Fato** | **Python**<br>Pandas | **Processamento e análise de dados**<br>Manipulação e organização de dados estruturados | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_Fato-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/desafio_fato) |
-| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | **Web Scraping + Data Processing**<br>Extração automática de dados judiciais | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
-| **🏠 Projeto House** | **Full-Stack**<br>Frontend + Backend | **Gerenciador de tarefas para repúblicas**<br>Autenticação e gerenciamento de tarefas | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
+| **📊 Desafio Fato** | **Python**<br>Pandas, SQLite | **Pipeline de dados a partir de CRM**<br>Tratamento de dados, indicadores e dashboard | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_Fato-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/desafio_fato) |
+| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | **Web Scraping + Data Processing**<br>Extração inteligente de dados judiciais + tabela HTML | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
+| **🏠 Projeto House** | **Full-Stack**<br>Frontend + Backend | **Gerenciador de tarefas para repúblicas**<br>Autenticação, chat real-time, gerenciamento | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
+| **🌐 Portfolio Pessoal** | HTML5, CSS3, JS | **Site profissional responsivo**<br>Em fase de desenvolvimento | [![Live Demo](https://img.shields.io/badge/Live-Portfolio-brightgreen?style=for-the-badge&logo=firefox-browser&logoColor=white)](COLOQUE_SEU_LINK_AQUI) |
 
-**👆 Estes projetos mostram minhas habilidades em programação e desenvolvimento.**
+**👆 Estes projetos mostram minhas skills em ação!**
 
 </div>
 
@@ -65,24 +65,20 @@ Python | C++ | JavaScript | SQL | Git | Linux
 
 <div align="center">
   <a href="https://wa.me/5518988239078?text=Olá%2C%20Maria%20Eduarda!%20Vi%20seu%20GitHub%20e%20tenho%20interesse%20em%20conversar%20sobre%20uma%20oportunidade%20de%20estágio%20ou%20projeto.">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/eduardaggomes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:eduarda.ogommes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
 ### 🐍 Snake das Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduarda-ogomes/eduarda-ogomes/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduarda-ogomes/eduarda-ogomes/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eduarda-ogomes/eduarda-ogomes/output/github-snake.svg" />
-</picture>
+(picture igual)
 
 ---
 
