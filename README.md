@@ -1,83 +1,81 @@
 # 👩🏻‍💻 Maria Eduarda Gomes
-
-**Estudante de Engenharia de Software | 4º período UnB**  
-Python | C++ | JavaScript | SQL/NoSQL  
-🎯 *Buscando estágio em desenvolvimento de software, aberta a qualquer stack e tecnologia!*  
-💼 *Remoto | Híbrido | Presencial (Brasília/DF)*
+🎯 *Foco em backend, dados e desenvolvimento de software.*  
+📍 *Brasília/DF | Remoto • Híbrido • Presencial*
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-- 🎓 **Engenharia de Software** - Universidade de Brasília (UnB)
+- 🎓 Engenharia de Software (Universidade de Brasília – UnB)
 - 💻 Projetos em **backend, dados e algoritmos**
-- 🛠️ Experiência com processamento e análise de dados em Python
-- 🔧 **Linux + Git** no desenvolvimento de projetos
+- 📊 Processamento e análise de dados com **Python** (ex.: Pandas, SQLite)
+- 🔧 Uso de **Linux + Git** no desenvolvimento e organização de projetos
 
 ---
 
-### 🛠️ Minhas Tecnologias
+## 🛠️ Tecnologias
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<div align="center">
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center; max-width: 800px; margin: 0 auto;">
+<!-- Linguagens -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="48"/>
 
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="50"/>
-  
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="50"/>
-  
-  <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="MariaDB/MySQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50"/>
-  
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="50"/>
+<!-- Web -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="48"/>
+
+<!-- Banco de Dados -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB/MySQL" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="48"/>
+
+<!-- Data / Analytics -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="48"/>
+<img src="https://cdn.simpleicons.org/metabase/509EE3" title="Metabase" width="48"/>
+
+<!-- Ferramentas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="48"/>
+
+<!-- Real-time -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="48"/>
 
 </div>
 
 ---
 
-### 🔥 Projetos em Destaque
+## 🔥 Projetos em destaque
 
 <div align="center">
 
-| Projeto | Tecnologias | Descrição | Link |
-|---------|-------------|-----------|------|
-| **📊 Desafio Fato** | **Python**<br>Pandas, SQLite | **Pipeline de dados a partir de CRM**<br>Tratamento de dados, indicadores e dashboard | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_Fato-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/desafio_fato) |
-| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | **Web Scraping + Data Processing**<br>Extração inteligente de dados judiciais + tabela HTML | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
-| **🏠 Projeto House** | **Full-Stack**<br>Frontend + Backend | **Gerenciador de tarefas para repúblicas**<br>Autenticação, chat real-time, gerenciamento | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
-| **🌐 Portfolio Pessoal** | HTML5, CSS3, JS | **Site profissional responsivo**<br>Em fase de desenvolvimento | [![Live Demo](https://img.shields.io/badge/Live-Portfolio-brightgreen?style=for-the-badge&logo=firefox-browser&logoColor=white)](COLOQUE_SEU_LINK_AQUI) |
-
-**👆 Estes projetos mostram minhas skills em ação!**
+| Projeto | Tecnologias | O que foi feito | Link |
+|---|---|---|---|
+| **📊 Desafio Fato** | **Python**<br>Pandas, SQLite, Metabase | Pipeline a partir de CRM com **tratamento, certificação**, camada analítica e **dashboards no Metabase** | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_Fato-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/desafio_fato) |
+| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | Web scraping e processamento de dados com extração estruturada e geração de tabela HTML | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
+| **🏠 Projeto House** | **Python (Bottle)**<br>Socket.IO, Eventlet | Projeto acadêmico full-stack: autenticação, gerenciamento de tarefas e chat em tempo real via WebSockets | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
 
 </div>
 
 ---
 
-### 📫 Entre em Contato
+## 📫 Contato
 
 <div align="center">
-  <a href="https://wa.me/5518988239078?text=Olá%2C%20Maria%20Eduarda!%20Vi%20seu%20GitHub%20e%20tenho%20interesse%20em%20conversar%20sobre%20uma%20oportunidade%20de%20estágio%20ou%20projeto.">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/eduardaggomes/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:eduarda.ogommes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 🐍 Snake das Contribuições
+## 🐍 Snake das contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduarda-ogomes/eduarda-ogomes/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduarda-ogomes/eduarda-ogomes/output/github-snake.svg" />
