@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maria Eduarda Gomes
 🎯 *Foco em backend, dados e desenvolvimento de software.*  
-📍 *Brasília/DF | Remoto • Híbrido • Presencial*
+📍 *Brasília/DF 
 
 ---
 
