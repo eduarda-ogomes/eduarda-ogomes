@@ -54,7 +54,6 @@
 | Projeto | Tecnologias | O que foi feito | Link |
 |---|---|---|---|
 | **📊 Desafio Fato** | **Python**<br>Pandas, SQLite, Metabase | Pipeline a partir de CRM com **tratamento, certificação**, camada analítica e **dashboards no Metabase** | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_Fato-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/desafio_fato) |
-| **🔥 Desafio OpenSense** | **Python**<br>BeautifulSoup, Pandas | Web scraping e processamento de dados com extração estruturada e geração de tabela HTML | [![GitHub](https://img.shields.io/badge/GitHub-Desafio_OpenSense-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/Desafio-OpenSense) |
 | **🏠 Projeto House** | **Python (Bottle)**<br>Socket.IO, Eventlet | Projeto acadêmico full-stack: autenticação, gerenciamento de tarefas e chat em tempo real via WebSockets | [![GitHub](https://img.shields.io/badge/GitHub-Projeto_House-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduarda-ogomes/projeto-house) |
 
 </div>
